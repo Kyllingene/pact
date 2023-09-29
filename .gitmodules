@@ -1,3 +1,6 @@
 [submodule "pact-vm"]
 	path = pact-vm
 	url = https://github.com/kyllingene/pact-vm
+[submodule "pacc"]
+	path = pacc
+	url = https://github.com/kyllingene/pacc
