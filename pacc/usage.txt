@@ -1,0 +1,4 @@
+
+pacc <input-file> <output-file>
+
+Compiles pact assembly (pasm) into pact machine code.
