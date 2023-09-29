@@ -1,0 +1,3 @@
+[submodule "pact-vm"]
+	path = pact-vm
+	url = https://github.com/kyllingene/pact-vm
